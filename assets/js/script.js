@@ -20,3 +20,5 @@ function loadButtons() {
 
 // Displays the quote
 theQuote.innerHTML = randomQuote;
+
+startGenerator();
